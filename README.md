@@ -3,7 +3,7 @@
   ## Description
   This application uses sequelize models in order to get, post, put, and delete database values. The application focuses on creating relations between products in order to organize these in an efficient manner.
 
-
+Link to demo video: https://drive.google.com/file/d/1EuEKl12dhGE1kv4vxIG5V-7cFkAJ_7fY/view
   ## Table of Contents
    * [Installation](#installation)
    * [Usage](#usage)
