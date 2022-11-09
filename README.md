@@ -9,8 +9,8 @@
    * [Usage](#usage)
    
    * [Contributing](#contributing)
-  
-   * [Questions](#questions)
+   * [Tests](#tests)
+   
   
   ## Installation
   To install necessary dependencies run the following command:
